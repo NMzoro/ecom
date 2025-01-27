@@ -38,7 +38,7 @@ Les utilisateurs peuvent s'authentifier, ajouter des produits, passer des comman
   python manage.py runserver
 
 - Structure du projet
-
+    ```bash
     ecommerce/ : Dossier principal du projet Django
         api/ : Application principale de l'API
             models.py : Définit les modèles Client, Produit, Commande, Facture
